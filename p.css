@@ -1,0 +1,19 @@
+h1 {
+	color:white;
+	font-size:60px;
+}
+button{ font-size:50px; }
+ div {
+  column-count: 2;
+}
+
+#y{
+	position:absolute;
+	right:20%;
+	top:20%;
+}
+#t{
+	position:absolute;
+left:0.1%;
+bottom: 10%
+}

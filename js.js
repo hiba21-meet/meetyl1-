@@ -1,10 +1,5 @@
-console.log("hello,world");
-var birthYear =parseInt(prompt("what year are you born in?"));
-var luckyNumber =  parseInt(prompt("what is your lucky number?"));
-var favFruit = parseInt(prompt("apple,oranges,kiwi"));
-var favSubject= parseInt(prompt("sport,music,math"));
-alert(birthYear/luckyNumber);
-alert(birthYear + luckyNumber);
-alert(birthYear + favSubject);
-alert(favFruit + birthYear + luckyNumber);
-alert(birthYear + luckyNumber + favSubject);
+function u(){
+	window.open("projct.html")
+}
+
+
